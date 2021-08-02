@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">学习 Compose</string>
+    <string name="hello_android">你好安卓</string>
+</resources>
